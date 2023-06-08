@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/app-tiempo/build/static/css/main.683c9e75.css",
+    "main.js": "/app-tiempo/build/static/js/main.60289316.js",
+    "static/media/HotBG.jpg": "/app-tiempo/build/static/media/HotBG.81fe26892d8142071e54.jpg",
+    "static/media/CodBG.jpg": "/app-tiempo/build/static/media/CodBG.683e65f932e6a177f488.jpg",
+    "index.html": "/app-tiempo/build/index.html",
+    "main.683c9e75.css.map": "/app-tiempo/build/static/css/main.683c9e75.css.map",
+    "main.60289316.js.map": "/app-tiempo/build/static/js/main.60289316.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.683c9e75.css",
+    "static/js/main.60289316.js"
+  ]
+}
