@@ -2,7 +2,7 @@
   "name": "app-climate",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://roberto9090123.github.io/app-tiempo/build",
+  "homepage": "https://roberto9090123.github.io/app-tiempo/",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^13.4.0",
